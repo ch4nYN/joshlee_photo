@@ -1,0 +1,18 @@
+#portraits h1, #landscapes h1 {
+	color:#dbc8a2;;
+}
+#portraits {
+    border-bottom: solid 2px #aa956a;
+}
+#portraits img {
+    width:300px;
+    height:450px;
+    padding:5px;
+}
+#landscapes {
+    border-bottom: solid 2px #aa956a;
+}
+#landscapes img {
+    width:350px;
+    padding:5px;
+}
